@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "id": "iris-shaders-fps-limiter",
+  "version": "${version}",
+  "name": "Iris Shaders FPS Limiter",
+  "description": "Limit your FPS while using Iris shaders.",
+  "authors": ["merdified"],
+  "contact": {
+    "homepage": "https://modrinth.com/mod/iris-shaders-fps-limiter"
+  },
+  "license": "CC0-1.0",
+  "icon": "assets/iris-shaders-fps-limiter/icon.png",
+  "environment": "client",
+  "entrypoints": {
+    "main": ["com.merdified.IrisShadersFpsLimiter"],
+    "modmenu": ["com.merdified.ModMenuIntegration"],
+    "sodium:config_api_user": ["com.merdified.SodiumIntegration"]
+  },
+  "mixins": ["iris-shaders-fps-limiter.mixins.json"],
+  "depends": {
+    "fabricloader": ">=0.19.5",
+    "minecraft": "~26.2",
+    "java": ">=25"
+  },
+  "suggests": {
+    "iris": "*",
+    "sodium": "*",
+    "modmenu": "*"
+  }
+}

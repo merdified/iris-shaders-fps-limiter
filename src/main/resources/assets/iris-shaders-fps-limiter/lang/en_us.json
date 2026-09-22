@@ -1,0 +1,10 @@
+{
+  "screen.iris-shaders-fps-limiter.title": "Iris Shaders FPS Limiter",
+  "option.iris-shaders-fps-limiter.enabled": "Enabled",
+  "option.iris-shaders-fps-limiter.enabled.tooltip": "Cap FPS while Iris shaders are enabled.",
+  "option.iris-shaders-fps-limiter.shader_fps_cap": "Shader FPS Cap",
+  "option.iris-shaders-fps-limiter.shader_fps_cap.tooltip": "FPS cap applied while Iris shaders are enabled.",
+  "option.iris-shaders-fps-limiter.shader_fps_cap.value": "%s FPS",
+  "option.iris-shaders-fps-limiter.page.general": "General",
+  "debug.iris-shaders-fps-limiter.cap_suffix": " [shader cap: %s FPS]"
+}

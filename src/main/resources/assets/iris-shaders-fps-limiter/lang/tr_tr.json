@@ -1,0 +1,10 @@
+{
+  "screen.iris-shaders-fps-limiter.title": "Iris Shaders FPS Limiter",
+  "option.iris-shaders-fps-limiter.enabled": "Etkin",
+  "option.iris-shaders-fps-limiter.enabled.tooltip": "Iris shader'ları etkinken FPS'i sınırla.",
+  "option.iris-shaders-fps-limiter.shader_fps_cap": "Shader FPS Sınırı",
+  "option.iris-shaders-fps-limiter.shader_fps_cap.tooltip": "Iris shader'ları etkinken uygulanan FPS sınırı.",
+  "option.iris-shaders-fps-limiter.shader_fps_cap.value": "%s FPS",
+  "option.iris-shaders-fps-limiter.page.general": "Genel",
+  "debug.iris-shaders-fps-limiter.cap_suffix": " [shader sınırı: %s FPS]"
+}
