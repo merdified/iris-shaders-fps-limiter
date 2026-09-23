@@ -8,7 +8,7 @@
   "contact": {
     "homepage": "https://modrinth.com/mod/iris-shaders-fps-limiter"
   },
-  "license": "CC0-1.0",
+  "license": "MIT",
   "icon": "assets/iris-shaders-fps-limiter/icon.png",
   "environment": "client",
   "entrypoints": {
